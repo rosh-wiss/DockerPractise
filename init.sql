@@ -1,0 +1,9 @@
+CREATE DATABASE IF NOT EXISTS biu;
+
+USE biu;
+
+CREATE TABLE IF NOT EXISTS product (
+    id VARCHAR(50),
+    name VARCHAR(50),
+    type VARCHAR(50)
+);
