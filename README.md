@@ -1,8 +1,8 @@
 To run this
 
-git clone <repo>  # or unzip the folder
-cd DockerTraining
-docker-compose up --build
+1. git clone <repo>  # or unzip the folder
+2. cd DockerTraining
+3. docker-compose up --build
 
 
 This will:
